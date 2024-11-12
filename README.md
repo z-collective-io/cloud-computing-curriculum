@@ -38,7 +38,8 @@ The following curriculum is designed for a 15-16 week semester
 # Sample Lectures
 ## Lecture 1: What is the Cloud
 - pptx: [Lecture 1](docs/lecture_1_what_is_the_cloud.pptx)
-- recording: [YouTube](https://youtu.be/Ef_k156-iZE?si=-gguDYy6j1iJeYQ6)
+- recording: [Lecture Proper](https://youtu.be/Ef_k156-iZE?si=wnCY0sekoUNSpPbo&t=1721)
+- course introduction: [YouTube](https://youtu.be/Ef_k156-iZE?si=-gguDYy6j1iJeYQ6)
 
 ## Lecture 2: What is Computing
 Note: This lecture was voted on by students when asked if they would like an overview of compute architectures. It is inteded to provide a level-set for studnets who may not come from a traditional CS background. 
