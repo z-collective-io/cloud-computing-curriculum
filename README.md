@@ -101,6 +101,11 @@ Link to assignment in GitHub Classrooms: https://classroom.github.com/a/CnKC29wn
 - The course uses PyGOAT, a deliberately insecure webapp built by OWASP to help guide learners through exploiting the OWASP Top 10 web vulnerabilities. Students who have interest in web app exploitation can use their locally deployed instance of PyGOAT to practice pentesting/ web app exploitation. 
 
 # Sample Supplemental Material
+## Tutorials and Guides:
+Written by my brilliant TA, [Vetri Ramalingam](https://github.com/orgs/MIS547-Fall-2024/people/vetrirg)
+- [Creating an Account on AWS](https://vetrivelramalingam.medium.com/create-a-free-aws-account-and-explore-cloud-services-37d71623639d)
+- [Creating an Account on GCP]()
+- [Creating an Account on Azure]()
 ## Walk-throughs:
 - [Creating an Azure Instance](https://youtu.be/YgSVTcjelxQ)
 - [Creating an EC2 Instance](https://youtu.be/LMQJ3Plwg_E)
@@ -112,7 +117,7 @@ Link to assignment in GitHub Classrooms: https://classroom.github.com/a/CnKC29wn
 # Sample Project Directions
 - [Sample Project Directions](docs/sample_project_directions.md)
 
-- # Resources for Instructors
+# Resources for Instructors
 - [Student Stress Cycles](docs/23_Student_Stress_Cycle.pdf)
 - [Universal Design for Learning Framework](https://www.cast.org/impact/universal-design-for-learning-udl)
 - [Collaborative Learning](https://docs.google.com/document/d/1D_vUMQl6T_cqB3zu_TMMjv6-NWJh6mFq/edit)
