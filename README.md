@@ -109,7 +109,7 @@ Link to assignment in GitHub Classrooms: https://classroom.github.com/a/CnKC29wn
 - [Adam Shamblin on Microservices](https://youtu.be/fBhOMs1zd-A)
 
 # Sample Project Directions
-[Sample Project Directions](docs/sample_project_directions.md)
+- [Sample Project Directions](docs/sample_project_directions.md)
 
 - # Resources for Instructors
 - [Student Stress Cycles](docs/23_Student_Stress_Cycle.pdf)
