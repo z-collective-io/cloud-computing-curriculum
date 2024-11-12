@@ -56,7 +56,7 @@ Note: This lecture was voted on by students when asked if they would like an ove
 
 # Sample Assignments
 ## IaaS Compute
-### Assingment Summary: 
+### Assignment Summary: 
 In the IaaS assignment, students create a VM (droplet) on DigitalOcean, launch a Jupyter server, and SSH to the Jupyter Notebook interface using SSH tunneling to connect to it. 
 
 Link to Assignment in GitHub Classrooms: https://classroom.github.com/a/oF-d3MHd 
