@@ -119,3 +119,4 @@ Link to assignment in GitHub Classrooms: https://classroom.github.com/a/CnKC29wn
 - [Learning ePortfolios](https://docs.google.com/document/d/1HZnBRsg9-R-w9vpD-UjZ4SKFXl3ig78Q/edit)
 - [Learning Science Strategies](https://docs.google.com/document/d/1yP-ORCaPfPeQVTEHPNzGK0rYgmB5znl4/edit)
 - [Mindfulness in the Classroom](https://docs.google.com/document/d/1qH8THOhNln1edK9VXgIS20L4Isp3Yl0n/edit)
+- [Balancing Work and Learning](https://cew.georgetown.edu/cew-reports/learnandearn/)
