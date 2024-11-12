@@ -111,6 +111,11 @@ Link to assignment in GitHub Classrooms: https://classroom.github.com/a/CnKC29wn
 # Sample Project Directions
 [Sample Project Directions](docs/sample_project_directions.md)
 
-# Resources for Instructors
+- # Resources for Instructors
 - [Student Stress Cycles](docs/23_Student_Stress_Cycle.pdf)
-- []
+- [Universal Design for Learning Framework](https://www.cast.org/impact/universal-design-for-learning-udl)
+- [Collaborative Learning](https://docs.google.com/document/d/1D_vUMQl6T_cqB3zu_TMMjv6-NWJh6mFq/edit)
+- [Flipping Your Class to Enhance Active Learning](https://docs.google.com/document/d/1a06xwdoKvXq_ye-_KePjlpshM9Bo6OTk/edit)
+- [Learning ePortfolios](https://docs.google.com/document/d/1HZnBRsg9-R-w9vpD-UjZ4SKFXl3ig78Q/edit)
+- [Learning Science Strategies](https://docs.google.com/document/d/1yP-ORCaPfPeQVTEHPNzGK0rYgmB5znl4/edit)
+- [Mindfulness in the Classroom](https://docs.google.com/document/d/1qH8THOhNln1edK9VXgIS20L4Isp3Yl0n/edit)
