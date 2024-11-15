@@ -3,6 +3,8 @@ Sample Curriculum for Teaching Cloud &amp; Cloud Native
 
 Prepared for Attendees of Cloud Native University Kubecon 2024 Co-located Event. 
 
+[Talk Slides](docs/CloudNativeUniversity24_Talk.pptx)
+
 # Sample Course Curriculum
 ## Curriculum Overview
 The following curriculum is designed for a 15-16 week semester
